@@ -1,0 +1,10 @@
+{
+  "description": "Calculate true loan costs with easy-to-use tools that reveal effective interest rates, monthly payments, and total repayments for clear financial decisions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
